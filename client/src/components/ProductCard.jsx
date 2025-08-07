@@ -13,7 +13,7 @@ function ProductCard(props) {
           className="w-full mb-2"
         />
         <h3 className="text-lg font-semibold mb-1">
-            {productName}
+        {productName}
         </h3>
         <div className="flex justify-between items-center">
           <p className="text-gray-600">${productPrice}</p>
